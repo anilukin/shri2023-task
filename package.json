@@ -4,5 +4,8 @@
     "@babel/core": "^7.22.6",
     "@babel/preset-env": "^7.22.6",
     "@babel/preset-react": "^7.22.5"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
